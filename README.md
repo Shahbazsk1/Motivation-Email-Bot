@@ -53,6 +53,6 @@
     <strong>Use the App Password in Your Script</strong><br>
     Update your script like this:<br><br>
     <pre><code>MY_EMAIL = "yourgmail@gmail.com"
-  MY_PASSWORD = "abcd efgh ijkl mnop"  # Your app password here</code></pre>
+MY_PASSWORD = "abcd efgh ijkl mnop"  # Your app password here</code></pre>
   </li>
 </ol>
