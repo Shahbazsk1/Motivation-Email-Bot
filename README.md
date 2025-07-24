@@ -25,7 +25,7 @@
   <li>Alternatively, store credentials securely in environment variables or a .env file.</li>
 </ul>
 
-<h3>✅ Step-by-Step: Use Gmail App Password</h3>
+<h3>✅ Step-by-Step: set your Gmail and Password</h3>
 <ol>
   <li>
     <strong>Enable 2-Step Verification on Your Google Account</strong><br>
